@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.raygrabdemo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\HIGH CAPACITY\\Unity Projects\\Collab\\Ray Grab Demo\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Ray Grab Demo [Testing]"
+        }
+      }
+    }
+  ]
+}
